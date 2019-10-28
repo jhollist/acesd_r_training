@@ -1,0 +1,30 @@
+---
+title: "ACESD Training"
+output: md_document
+---
+
+1. Introduction to R 111
+2. Introduction to working with Geospatial data in R 1111
+3. Suggest a topic!
+4. Don't know a topic, but am generally interested in R Trainings 111
+5. How to build a Shiny app 11
+6. Fundamentals of R Package development 11
+7. Random Forests in R 111
+
+Other topics:
+Bridging ArcGIS and R
+GitHub Training, Group work and collaboration with GitHub
+R for Graphics
+
+Top:
+Introduction to R - January
+Geospatial in R - March
+Random Forest in R - May
+
+Next:
+Shiny apps
+R Package Development
+
+Other Suggestions:
+R for Graphics and Figures
+Git and Github
